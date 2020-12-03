@@ -6,7 +6,8 @@ namespace tms
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("TMS_03-12");
+            Console.WriteLine();
         }
     }
 }
